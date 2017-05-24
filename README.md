@@ -1,9 +1,6 @@
 README
 ======
 
-* Team Name: Signal From the Noise
-* Members: Tim Zhou (ttzhou@usfca.edu) Maxine Qian(mqian5@usfca.edu)
-
 Introduction
 ------------
 
